@@ -40,3 +40,35 @@
 .footer-links {
     margin-left: auto;
 }
+
+.footer__top--container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     /* border: 1px solid #ffffff; */
+}
+
+.more {
+    width: 25%;
+    height: 70%;
+    border: 1px solid #ffffff;
+}
+
+.latest {
+    width: 25%;
+    height: 70%;
+    border: 1px solid #ffffff;
+}
+
+.get {
+    width: 25%;
+    height: 70%;
+    border: 1px solid #ffffff;
+}
+
+.subscribe {
+    width: 25%;
+    height: 70%;
+    border: 1px solid #ffffff;
+}
