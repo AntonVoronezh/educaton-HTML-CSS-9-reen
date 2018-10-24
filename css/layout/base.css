@@ -125,6 +125,7 @@ textarea {
     font-size: 100%;
     /* делаем размер шрифтов везде одинаковым */
     outline: none;
+    cursor: pointer;
 }
 
 input[type="text"],
