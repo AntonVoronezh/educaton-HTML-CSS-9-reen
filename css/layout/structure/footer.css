@@ -4,6 +4,22 @@
 
 .footer {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
+    font-family: 'Lato Bold';
+}
+
+.footer__top {
+    height: 300px;
+    width: 100%;
+    color: #a4b3c1;
+    background-color: #2f4052;
+}
+
+.footer__bottom {
+    height: 80px;
+    width: 100%;
+    color: #707e8c;
+    background-color: #283645;
 }

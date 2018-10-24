@@ -17,6 +17,13 @@
     /* border: 1px solid #000000; */
 }
 
+.header-social__pic:hover {
+    width: 28px;
+    height: 28px;
+    border: 1px solid #000000;
+    border-radius: 50%;
+}
+
 .header-social__pic--google {
     background-image: url('../../../img/icons/icon-s-gplus.png')
 }
