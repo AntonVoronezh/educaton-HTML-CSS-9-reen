@@ -15,17 +15,17 @@
 .container {
     width: 1160px;
     margin: 0 auto;
-    border: 1px solid #cccccc;
+    /* border: 1px solid #cccccc; */
 }
 
 .wrapper__content {
     flex: 1 0 auto;
-    border: 1px solid #000000;
+    /* border: 1px solid #000000; */
 }
 
 .header {
     min-height: 150px;
-    border: 1px solid #000000;
+    /* border: 1px solid #000000; */
 }
 
 .footer {
