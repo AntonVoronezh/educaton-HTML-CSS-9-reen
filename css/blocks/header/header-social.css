@@ -1,0 +1,13 @@
+/****************************
+**      AntonVoronezh
+****************************/
+
+.header-social {
+
+}
+
+.header-social__list {
+    display: flex;
+    justify-content: flex-start;
+}
+

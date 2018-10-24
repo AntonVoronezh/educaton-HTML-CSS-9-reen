@@ -180,7 +180,7 @@ a,
 a:visited {
     /* порядок правил для ссылок имеет значение */
     color: #506a85;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 a:hover {
