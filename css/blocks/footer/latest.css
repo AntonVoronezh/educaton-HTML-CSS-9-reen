@@ -2,31 +2,26 @@
 **      AntonVoronezh
 ****************************/
 
-.more {
+.latest {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
 }
 
-.more__title {
+.latest__title {
     margin-bottom: 20px;
     color: #ffffff;
     text-transform: uppercase;
 }
 
-.more__logo {
-    margin-bottom: 20px;
+.latest__photo {
+    display: flex;
+    flex-wrap: wrap;
 }
 
-.more__text {
-    margin-bottom: 20px;
-}
-
-a.more__links  {
-    color: #ffffff;
-}
-
-a.more__links:hover  {
-    color: #000000;
+.latest__img {
+    width: 115px;
+    height: 75px;
+    margin: 3px;
 }
