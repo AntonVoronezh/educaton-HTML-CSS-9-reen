@@ -3,9 +3,16 @@
 ****************************/
 
 @font-face {
-    font-family: 'TitilliumWeb';
-    src: url('fonts/TitilliumWeb-Regular.ttf');
+    font-family: 'Lato Regular';
+    src: url('fonts/Lato-Regular.ttf');
     font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato Bold';
+    src: url('fonts/Lato-Bold.ttf');
+    font-weight: bold;
     font-style: normal;
 }
 
