@@ -52,23 +52,27 @@
 .more {
     width: 25%;
     height: 70%;
+    padding-right: 20px;
     border: 1px solid #ffffff;
 }
 
 .latest {
     width: 25%;
     height: 70%;
+    padding-right: 20px;
     border: 1px solid #ffffff;
 }
 
 .get {
     width: 25%;
     height: 70%;
+    padding-right: 20px;
     border: 1px solid #ffffff;
 }
 
 .subscribe {
     width: 25%;
     height: 70%;
+    padding-right: 20px;
     border: 1px solid #ffffff;
 }
